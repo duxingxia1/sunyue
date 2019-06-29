@@ -1,9 +1,6 @@
 sunyue wo ai ni
 sunyue shi ge zhu wo ai ni
 sunyue do bu guan wo
-<<<<<<< HEAD
 sunyue bu li wo wo hen shang xin
-=======
 sunyue tai ben le
->>>>>>> 0fbb1e234f06718b847f22faa6e4924582ff3daf
 
